@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApplicationCompara</string>
+    <string name="Respuesta_true">Los textos son iguales</string>
+</resources>
